@@ -1,0 +1,1 @@
+This is the first GenAI APP consisting of various model integrations
